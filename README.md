@@ -31,7 +31,8 @@ Este proyecto implementa estructuras de datos fundamentales usando listas doblem
 │   └── MainSets.java            # Clase Main para probar funcionalidades de DLSctrSet
 ├── Queues/
 │   ├── DLSctrQueue.java         # Implementación del TAD Queue con listas doblemente enlazadas
-│   └── DLSctrQueueTest.java     # Pruebas unitarias JUnit 4 para DLSctrQueue
+|   ├── DLSctrQueueTest.java     # Pruebas unitarias JUnit 4 para DLSctrQueue
+│   └── MainQueues.java          # Clase Main para probar funcionalidades de DLSctrQueue
 ├── ADTsException/
 │   └── ADTsException.java       # Clase personalizada para manejo de excepciones
 ```
