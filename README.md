@@ -21,7 +21,7 @@ Este proyecto implementa estructuras de datos fundamentales usando listas doblem
 ---
 
 ## 🗂️ Estructura del Proyecto
-
+```
 📁 src/
 ├── DblyLnkSctr/
 │   └── DblyLnkSctr.java         # Implementación de lista doblemente enlazada con métodos recursivos
@@ -34,7 +34,7 @@ Este proyecto implementa estructuras de datos fundamentales usando listas doblem
 │   └── DLSctrQueueTest.java     # Pruebas unitarias JUnit 4 para DLSctrQueue
 ├── ADTsException/
 │   └── ADTsException.java       # Clase personalizada para manejo de excepciones
-
+```
 ---
 
 ## 📦 Clases y Métodos Principales
@@ -105,8 +105,8 @@ Sets/
 Queues/
 ADTsException/
 
-
---## 📚 Referencia
+---
+## 📚 Referencia
 
 - José Ramón Ríos Sánchez. (2024). *DL Sctr Stack* [Código fuente].
 
