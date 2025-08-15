@@ -161,8 +161,7 @@ public class DblyLnkSctr<T> implements Iterable<T>
         }
         result = result + "}";
         return result;
-    }   
-   FIND RECURSIVO
+    }  
     // Ejercicio 1: find
     // Método público de find donde se aplica la recursividad
     //Esta función busca un nodo que contiene un elemento específico en una lista enlazada de forma recursiva
